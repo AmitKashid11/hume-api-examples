@@ -15,10 +15,10 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Hume AI | Sandbox</title>
-        <meta name="title" content="Hume AI | Sandbox" />
-        <meta name="description" content="Hume Sandbox" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>AI-VERSE</title>
+        <meta name="title" content="AI-VERSE" />
+        <meta name="description" content="AI-VERSE" />
+        {/* <link rel="icon" href="/favi.ico" /> */}
       </Head>
 
       <div className="min-w-screen min-h-screen bg-neutral-100 font-main font-thin text-neutral-800">

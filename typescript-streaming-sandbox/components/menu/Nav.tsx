@@ -5,7 +5,7 @@ export function Nav() {
     <div>
       <div className="flex w-full items-center justify-between px-10 py-5 md:w-auto md:rounded-full">
         <Link href="/">
-          <img src="/hume-logo.svg" alt="logo" width={100} />
+          <img src="/hume-logo.png" alt="logo" width={100} height={100} />
         </Link>
 
         <div className="text-xs hidden md:block lg:text-sm">
